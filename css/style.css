@@ -14,10 +14,16 @@ p
   width:300px;
 }
 
+.logo p {
+    /* other styles goes here... */
+    display: inline-block;
+    vertical-align: top;
+}
+
 button
 {
 
-  width:50%;
+  width:30%;
   border-radius:10px;
   padding:10px;
   font-size:40px;

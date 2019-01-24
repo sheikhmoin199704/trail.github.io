@@ -14,13 +14,6 @@ p
   width:300px;
 }
 
-.logo p {
-font-size:20px;
-    /* other styles goes here... */
-    display: inline-block;
-    vertical-align: top;
-}
-
 button
 {
 

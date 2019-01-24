@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/shaikmaqsood/pen/XmydxJ.
+
+ Here I'm giving a  demo as to how to copy a Text directly to clicpboard without a Flash...

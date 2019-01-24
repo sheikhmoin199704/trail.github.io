@@ -16,13 +16,13 @@ p
 
 button
 {
-  height:30px;
-  width:150px;
-  border-radius:8px;
+  height:60px;
+  width:50%;
+  border-radius:10px;
   padding:10px;
-  font-size:20px;
+  font-size:50px;
   font-family: 'Oswald', sans-serif;
-  height:52px;
+  height:100px;
   cursor:pointer;
-  background-color:wheat;
+  background-color:green;
 }

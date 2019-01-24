@@ -15,6 +15,7 @@ p
 }
 
 .logo p {
+font-size:20px;
     /* other styles goes here... */
     display: inline-block;
     vertical-align: top;
